@@ -494,12 +494,11 @@
 </dependency>
 
 <!-- https://mvnrepository.com/artifact/org.webjars.bower/fontawesome -->
-<!--<dependency>
+<dependency>
     <groupId>org.webjars.bower</groupId>
     <artifactId>fontawesome</artifactId>
     <version>4.7.0</version>
 </dependency>
--->
 <!-- https://mvnrepository.com/artifact/com.adobe.blazeds/blazeds-core -->
 <!-- start mehul sir-->
 <!-- https://mvnrepository.com/artifact/com.adobe.blazeds/blazeds-core -->
@@ -3072,11 +3071,11 @@
     <version>2.2.11</version>
 </dependency>
 <!-- https://mvnrepository.com/artifact/androidx.browser/browser -->
-<!--<dependency>
+<dependency>
     <groupId>androidx.browser</groupId>
     <artifactId>browser</artifactId>
     <version>1.0.0</version>
-</dependency>-->
+</dependency>
 <!-- https://mvnrepository.com/artifact/com.aspose/aspose-cells -->
 <dependency>
     <groupId>com.aspose</groupId>
@@ -4711,12 +4710,11 @@
 
 <!--start vasue sir   -->
 <!-- https://mvnrepository.com/artifact/commons-codec/commons-codec -->
-<!--<dependency>
+<dependency>
     <groupId>commons-codec</groupId>
     <artifactId>commons-codec</artifactId>
     <version>1.6.redhat-2</version>
 </dependency>
--->
 <!-- https://mvnrepository.com/artifact/commons-logging/commons-logging -->
 <dependency>
     <groupId>commons-logging</groupId>
@@ -5026,12 +5024,11 @@
 </dependency>
 
 <!-- https://mvnrepository.com/artifact/eigenbase/eigenbase-properties -->
-<!--<dependency>
+<dependency>
     <groupId>eigenbase</groupId>
     <artifactId>eigenbase-properties</artifactId>
     <version>1.1.4</version>
 </dependency>
--->
 <!-- https://mvnrepository.com/artifact/com.googlecode.javaewah/JavaEWAH -->
 <dependency>
     <groupId>com.googlecode.javaewah</groupId>
@@ -5793,12 +5790,12 @@
 </dependency>
 
 <!-- https://mvnrepository.com/artifact/org.jboss.security/jbossxacml -->
-<!--<dependency>
+<dependency>
     <groupId>org.jboss.security</groupId>
     <artifactId>jbossxacml</artifactId>
     <version>2.0.4</version>
     <type>pom</type>
-</dependency> -->
+</dependency>
 
 <!-- https://mvnrepository.com/artifact/org.jboss.spec.javax.resource/jboss-connector-api_1.6_spec -->
 <dependency>
@@ -5997,12 +5994,11 @@
 </dependency>
 
 <!-- https://mvnrepository.com/artifact/org.soulwing.snmp/tnm4j -->
-<!--<dependency>
+<dependency>
     <groupId>org.soulwing.snmp</groupId>
     <artifactId>tnm4j</artifactId>
     <version>1.0.0</version>
 </dependency>
--->
 <!-- https://mvnrepository.com/artifact/com.typesafe.scala-logging/scala-logging -->
 <dependency>
     <groupId>com.typesafe.scala-logging</groupId>
@@ -6089,12 +6085,12 @@
 
 
 <!-- https://mvnrepository.com/artifact/org.peimari/g-leaflet-googlemutant -->
-<!--<dependency>
+<dependency>
     <groupId>org.peimari</groupId>
     <artifactId>g-leaflet-googlemutant</artifactId>
     <version>1.0.0</version>
 </dependency>
--->
+
 
 
 
@@ -7238,12 +7234,12 @@
     <scope>provided</scope>
 </dependency>
 <!-- https://mvnrepository.com/artifact/org.jboss.spec.javax.servlet/jboss-servlet-api_3.1_spec -->
-<!--<dependency>
+<dependency>
     <groupId>org.jboss.spec.javax.servlet</groupId>
     <artifactId>jboss-servlet-api_3.1_spec</artifactId>
     <version>1.0.0.Final-redhat-1</version>
     <scope>provided</scope>
-</dependency>-->
+</dependency>
 <!-- https://mvnrepository.com/artifact/org.jboss.spec.javax.transaction/jboss-transaction-api_1.2_spec -->
 <dependency>
     <groupId>org.jboss.spec.javax.transaction</groupId>
@@ -8403,11 +8399,11 @@
     <version>5.4.12.Final</version>
 </dependency>
 <!-- https://mvnrepository.com/artifact/org.hibernate.javax.persistence/hibernate-jpa-2.1api -->
-<!--<dependency>
+<dependency>
     <groupId>org.hibernate.javax.persistence</groupId>
     <artifactId>hibernate-jpa-2.1api</artifactId>
     <version>1.0.0.Final</version>
-</dependency>-->
+</dependency>
 <!-- https://mvnrepository.com/artifact/org.jasig.cas.client/cas-client-core -->
 <dependency>
     <groupId>org.jasig.cas.client</groupId>
@@ -9110,11 +9106,11 @@
     <scope>test</scope>
 </dependency>
 
-<!--<dependency>
+<dependency>
     <groupId>com.infradna.tool</groupId>
     <artifactId>bridge-method-annotation</artifactId>
     <version>1.13</version>
-</dependency>-->
+</dependency>
 
 <dependency>
     <groupId>com.twilio.sdk</groupId>
@@ -9470,11 +9466,11 @@
 </dependency>
 
 <!-- https://mvnrepository.com/artifact/com.infradna.tool/bridge-method-annotation -->
-<!--<dependency>
+<dependency>
     <groupId>com.infradna.tool</groupId>
     <artifactId>bridge-method-annotation</artifactId>
     <version>1.13</version>
-</dependency>-->
+</dependency>
 
 <!-- https://mvnrepository.com/artifact/com.jolbox/bonecp -->
 <dependency>
