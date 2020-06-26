@@ -2881,7 +2881,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.31</version>
+    <version>9.0.35</version>
 </dependency>
 <!-- https://mvnrepository.com/artifact/org.elasticsearch/elasticsearch -->
 <dependency>
@@ -3674,7 +3674,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.33</version>
+    <version>9.0.35</version>
 </dependency>
 <!-- https://mvnrepository.com/artifact/org.aspectj/aspectjweaver -->
 <dependency>
@@ -6379,7 +6379,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>9.0.29</version>
+    <version>9.0.35</version>
 </dependency>
 <!-- https://mvnrepository.com/artifact/org.apache.tomcat.embed/tomcat-embed-el -->
 <dependency>
@@ -6935,7 +6935,7 @@
 <dependency>
     <groupId>org.apache.tomcat.embed</groupId>
     <artifactId>tomcat-embed-core</artifactId>
-    <version>8.5.29</version>
+    <version>9.0.35</version>
 </dependency>
 <!-- https://mvnrepository.com/artifact/org.assertj/assertj-core -->
 <dependency>
